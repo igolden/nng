@@ -1,0 +1,73 @@
+Nashville Name Generator
+===
+
+A little script that spits out heroku-style identifiers with a "Music City" spin on em.
+
+
+### Usage
+
+Clone the repo. Then run `ruby nashville_name_generator.rb`
+
+
+Sample Output:
+
+    "refrain_bass_41609"
+    "piercing_grand piano_90818"
+    "musical_record_29083"
+    "riveting_singer_56158"
+    "saturated_tempo_40863"
+    "trailblazing_harmonica_50851"
+    "radical_songbook_19152"
+    "perfect_trumpet_38418"
+    "perfect_song_25902"
+    "primal_violin_52894"
+    "ethereal_songbook_37880"
+    "transporting_grand piano_67028"
+    "flawless_entertainer_18954"
+    "throbbing_chord_20479"
+    "successful_song_39587"
+    "skilled_cymbal_33009"
+    "skillful_saxophone_74540"
+    "intoxicating_instrumentation_55709"
+    "upbeat_chord_66493"
+    "surprising_track_77272"
+    "assured_tuba_24044"
+    "trademark_fiddle_66390"
+    "surprising_xylophone_68303"
+    "grandiose_sousaphone_47779"
+    "cohesive_ballad_32882"
+    "soaring_rhythm_79071"
+    "assured_refrain_92330"
+    "polished_note_89434"
+    "flawless_debut_50719"
+    "grandiose_bass_94988"
+    "satisfying_fan_58291"
+    "listenable_note_58966"
+    "unified_grand piano_82601"
+    "epic_entertainer_44641"
+    "exceptional_cymbal_97409"
+    "poetic_entertainer_53732"
+    "limitless_fan_81744"
+    "upbeat_lyric_95130"
+    "inviting_album_52696"
+    "brilliant_musician_14452"
+    "perfect_jam_76193"
+    "focused_clarinet_23159"
+    "groundbreaking_microphone_15487"
+    "blissful_album_15502"
+    "radical_songbook_94483"
+    "enigmatic_reissue_87186"
+    "transcendent_composition_68905"
+    "sonic_oboe_49821"
+    "tight_sound_90863"
+    "delightful_trombone_66051"
+    "stylish_vibrato_25164"
+    "breathtaking_guitar_17996"
+    "stylish_trumpet_49581"
+    "refined_reissue_40200"
+    "invigorating_viola_50443"
+    "mythical_harmonica_39908"
+    "breathtaking_guitar_90052"
+    "fluid_beat_30455"
+    "riveting_debut_43859"
+    "solid_cymbal_26109"
